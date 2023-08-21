@@ -1,2 +1,1 @@
-icons provided by ALX
-icons by icon8
+contains all icons used
